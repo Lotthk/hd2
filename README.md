@@ -45,4 +45,4 @@ std::vector<Checkbox> checkboxes = {
 ### - Enter To Applied Feature
 ### - Happy Cheating
 
-### Doesnt need old exe, you can use latest exe.
+### Doesnt need old exe, you can use latest exe. 
